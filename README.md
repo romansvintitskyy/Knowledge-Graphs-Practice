@@ -1,2 +1,2 @@
 # Knowledge-Graphs-Practice
-These are my practice results of creating Knowledge Graphs using spaCy and other libraries in Python using Jupyter Notebook. I encountered a few difficulties that I described in the  "Limitations and Future Developments" section.
+These are my practice results of creating Knowledge Graphs using spaCy and other libraries in Python using Jupyter Notebook. I encountered a few difficulties that I described in the  "Limitations and Future Developments" section. In particular, some concept pairs contained blank spaces as their subject/object. I was not sure how to fix this issue given the non-homogenous structure of the sentences.
